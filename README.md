@@ -5,4 +5,6 @@ The goal of this project was to get familiar with artificial neural networks and
 
 Technologies used: Python, NumPy, Pandas, OpenCV, Matplotlib, Tensorflow, Keras, Scikit-learn.
 
-Initial dataset was found on Kaggle https://www.kaggle.com/datasets/koryakinp/chess-positions and it was used for creating a new dataset. The new data set consisted of folders whose names correspond to the names of the chess pieces (blackRook, whiteRook, blackBishop, whiteBishop, ...). All these folders were placed in 3 parent folders (train, test and validation). This way of organization is very common when it comes to datasets with images.
+Initial dataset was found on Kaggle https://www.kaggle.com/datasets/koryakinp/chess-positions and it was used for creating a new dataset. The new dataset consisted of folders whose names correspond to the names of the chess pieces (blackRook, whiteRook, blackBishop, whiteBishop, ...). All these folders were placed in 3 parent folders (train, test and validation). This way of organization is very common when it comes to datasets with images.
+
+The solution is applicable to 2D images of online chess games and it can be extended to more complex scenarios.
