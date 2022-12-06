@@ -1,6 +1,8 @@
 # ChessProject
 Recognition of a chessboard from an image using artificial neural networks.
+
 Input: 2D image of online chess game
+
 Output: Matrix with recognized chess pieces (chess pieces are represented by the initial letter of their name) 
 
 The goal of this project was to get familiar with artificial neural networks and basics of NumPy, Pandas, OpenCV, Tensorflow, Matplotlib, Scikit-learn, and Keras libraries. The solution is based on already existing solutions and it confirms that the problem is solvable using some of the listed technologies and that it can be extended in the future.
